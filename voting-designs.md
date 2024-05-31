@@ -26,6 +26,6 @@ Here’s the visual diagram explaining it: https://docs.google.com/presentation/
 
 I’ve got a code repository at https://github.com/derjogi/Repbased_voting_playground (forked from Joan’s repo 🙇) in which a basic version of this can be tested in a Jupyter Notebook (https://mybinder.org/v2/gh/derjogi/Repbased_voting_playground/HEAD?labpath=Playground.ipynb). There are some explanations on that file, and I’ll continue to update and improve them. Or possibly I’ll soon just merge it with other repos 🤷 
 
-## Quadratic Credibility, by [flocke](https://github.com/fxFlocke)
+## Quadratic Credibility, by [flocke](https://github.com/fxFlocke) and Jade
 
 TODO
